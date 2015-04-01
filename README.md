@@ -1,0 +1,2 @@
+# ScopeTrade
+ScopeTrade Project
